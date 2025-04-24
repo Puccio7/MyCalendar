@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+`javascript
+>>>>>>> e36e8b5ba16e7719f3aa45cdc56e9aa6514b1e09
 // Questo codice permette di registrare un service worker.
 // Questo consente all'app di caricarsi più velocemente nelle visite successive e fornire
 // funzionalità offline. Tuttavia, ciò significa anche che gli aggiornamenti dell'app
@@ -20,7 +24,11 @@ export function register(config) {
     }
 
     window.addEventListener('load', () => {
+<<<<<<< HEAD
       const swUrl = process.env.PUBLIC_URL + '/service-worker.js';
+=======
+      const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
+>>>>>>> e36e8b5ba16e7719f3aa45cdc56e9aa6514b1e09
 
       if (isLocalhost) {
         // Siamo in localhost. Verifichiamo se esiste un service worker
@@ -102,4 +110,8 @@ export function unregister() {
         console.error(error.message);
       });
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e36e8b5ba16e7719f3aa45cdc56e9aa6514b1e09
