@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Puccio7/MyCalendar/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Puccio7/MyCalendar/static/js/main.90ce3e46.chunk.js",
-    "main.js.map": "/Puccio7/MyCalendar/static/js/main.90ce3e46.chunk.js.map",
-    "runtime~main.js": "/Puccio7/MyCalendar/static/js/runtime~main.e55c5b38.js",
-    "runtime~main.js.map": "/Puccio7/MyCalendar/static/js/runtime~main.e55c5b38.js.map",
-    "static/js/2.c7821bdd.chunk.js": "/Puccio7/MyCalendar/static/js/2.c7821bdd.chunk.js",
-    "static/js/2.c7821bdd.chunk.js.map": "/Puccio7/MyCalendar/static/js/2.c7821bdd.chunk.js.map",
-    "index.html": "/Puccio7/MyCalendar/index.html",
-    "precache-manifest.70f44f0ba44a0d94bcfec912e845765a.js": "/Puccio7/MyCalendar/precache-manifest.70f44f0ba44a0d94bcfec912e845765a.js",
-    "service-worker.js": "/Puccio7/MyCalendar/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Puccio7/MyCalendar/static/css/main.5ecd60fb.chunk.css.map"
-  }
+    "main.css": "/miei-turni/static/css/main.92c8d4eb.css",
+    "main.js": "/miei-turni/static/js/main.d04e28b0.js",
+    "static/js/453.b9818fd9.chunk.js": "/miei-turni/static/js/453.b9818fd9.chunk.js",
+    "index.html": "/miei-turni/index.html",
+    "main.92c8d4eb.css.map": "/miei-turni/static/css/main.92c8d4eb.css.map",
+    "main.d04e28b0.js.map": "/miei-turni/static/js/main.d04e28b0.js.map",
+    "453.b9818fd9.chunk.js.map": "/miei-turni/static/js/453.b9818fd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.d04e28b0.js"
+  ]
 }
