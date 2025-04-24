@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/MyCalendar/static/css/main.f855e6bc.css",
-    "main.js": "/MyCalendar/static/js/main.25ede26a.js",
-    "static/js/453.b9818fd9.chunk.js": "/MyCalendar/static/js/453.b9818fd9.chunk.js",
-    "static/media/logo.svg": "/MyCalendar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MyCalendar/index.html",
-    "main.f855e6bc.css.map": "/MyCalendar/static/css/main.f855e6bc.css.map",
-    "main.25ede26a.js.map": "/MyCalendar/static/js/main.25ede26a.js.map",
-    "453.b9818fd9.chunk.js.map": "/MyCalendar/static/js/453.b9818fd9.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.25ede26a.js"
-  ]
+    "main.css": "/Puccio7/MyCalendar/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Puccio7/MyCalendar/static/js/main.90ce3e46.chunk.js",
+    "main.js.map": "/Puccio7/MyCalendar/static/js/main.90ce3e46.chunk.js.map",
+    "runtime~main.js": "/Puccio7/MyCalendar/static/js/runtime~main.e55c5b38.js",
+    "runtime~main.js.map": "/Puccio7/MyCalendar/static/js/runtime~main.e55c5b38.js.map",
+    "static/js/2.c7821bdd.chunk.js": "/Puccio7/MyCalendar/static/js/2.c7821bdd.chunk.js",
+    "static/js/2.c7821bdd.chunk.js.map": "/Puccio7/MyCalendar/static/js/2.c7821bdd.chunk.js.map",
+    "index.html": "/Puccio7/MyCalendar/index.html",
+    "precache-manifest.70f44f0ba44a0d94bcfec912e845765a.js": "/Puccio7/MyCalendar/precache-manifest.70f44f0ba44a0d94bcfec912e845765a.js",
+    "service-worker.js": "/Puccio7/MyCalendar/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Puccio7/MyCalendar/static/css/main.5ecd60fb.chunk.css.map"
+  }
 }
